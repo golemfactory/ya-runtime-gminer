@@ -1,1 +1,4 @@
-# ya-runtime-gminer
+# CPU Mining Plugin
+
+Wrapper for Monero.
+
